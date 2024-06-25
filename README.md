@@ -23,3 +23,9 @@
 ## Portfolio
 
 [Visit my portfolio](https://nishanthfiona.vercel.app)
+
+---
+
+## Profile Visitors
+
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Nishanthfiona.Nishanthfiona)
