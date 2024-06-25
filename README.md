@@ -28,4 +28,4 @@
 
 ## Profile Visitors
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=Nishanthfiona.Nishanthfiona)
+![](https://komarev.com/ghpvc/?Nishanthfiona=Nishanthfiona&color=red)
