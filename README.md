@@ -28,4 +28,4 @@
 
 ## Profile Visitors
 
-![](https://komarev.com/ghpvc/?Nishanthfiona=Nishanthfiona&color=red)
+![](https://komarev.com/ghpvc/?Nishanthfiona=Nishanthfiona&color=red&label=Profile+Views&abbreviated=True)
