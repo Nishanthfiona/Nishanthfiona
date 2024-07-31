@@ -29,7 +29,7 @@
 
 ## 📊 Profile Visitors
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nishanthfiona&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Nishanthfiona&color=red&label=Profile+Views&abbreviated=true)
 
 ---
 
@@ -47,3 +47,5 @@
 Feel free to reach out to me through [LinkedIn](https://linkedin.com/in/nishanthfiona12) or [Email](mailto:fiona12.nf@gmail.com) for any inquiries or collaboration opportunities.
 
 ---
+
+
