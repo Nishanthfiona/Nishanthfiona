@@ -39,8 +39,7 @@
 
 - **Programming Languages:** Python, SQL
 - **Tools & Technologies:** Tableau, Power BI, Excel, Matplotlib, Seaborn
-- **Domain Knowledge:** Banking, Finance, E-commerce
-- 
+
 ---
 
 ## 📬 Contact Me
