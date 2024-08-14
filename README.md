@@ -33,8 +33,6 @@
 
 ---
 
-### Additional Sections You Might Want to Consider
-
 ## 📈 Skills
 
 - **Programming Languages:** Python, SQL
