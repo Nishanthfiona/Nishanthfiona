@@ -42,7 +42,12 @@
 
 ## 📬 Contact Me
 
-Feel free to reach out to me through [LinkedIn](https://linkedin.com/in/nishanthfiona12) or [Email](mailto:fiona12.nf@gmail.com) for any inquiries or collaboration opportunities.
+Feel free to reach out to me for any inquiries or collaboration opportunities.
+
+<a href="https://twitter.com/NishanthFi3581"><img align="left" src="x-social-media-logo-icon.png" width="32px"></a>
+<a href="https://linkedin.com/in/nishanthfiona12"><img align="left" src="linkedin-app-icon.png" width="32px"></a>
+<a href="https://medium.com/@nishanthfiona"><img align="left" src="medium_icon_130878.svg" width="32px"></a>
+<br>
 
 
 
