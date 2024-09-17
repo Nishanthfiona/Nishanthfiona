@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💼 Business Intelligence Analyst | Data Analyst 
+## 👨‍💼 Data Scientist | Data Analyst 
 ### **2+ Years Experience**
 
 ---
