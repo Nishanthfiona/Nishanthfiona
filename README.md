@@ -6,6 +6,7 @@
 🔗 **LinkedIn:** [linkedin.com/in/nishanthfiona12](https://linkedin.com/in/nishanthfiona12)  
 💻 **GitHub:** [github.com/Nishanthfiona](https://www.github.com/Nishanthfiona)  
 📊 **Tableau:** [tableau.com/Nishanthfiona](https://public.tableau.com/app/profile/nishanth.fiona/vizzes)
+🅱️ **Blogs:** [medium.com/Nishanthfiona](https://medium.com/@nishanthfiona)
 
 ---
 
