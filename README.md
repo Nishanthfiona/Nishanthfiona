@@ -11,8 +11,8 @@
 
 ---
 
-## 👨‍💼 Data Scientist | Data Analyst 
-### **2+ Years Experience**
+## 👨‍💼 Data Scientist | Data Analyst | Data Manager
+### **3+ Years Experience**
 
 ---
 
